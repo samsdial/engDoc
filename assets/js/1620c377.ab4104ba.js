@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeng_blog=self.webpackChunkeng_blog||[]).push([[83],{8787:e=>{e.exports=JSON.parse('{"permalink":"/engDoc/","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
