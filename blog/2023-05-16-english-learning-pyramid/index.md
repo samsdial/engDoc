@@ -42,6 +42,7 @@ authors: [sams]
 
 ## **Lecture**
 ### **I Have a Dream**
+[Video Youtube](https://www.youtube.com/watch?v=Z_ywghJP9l8) <br>
 [Martin L. King](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.) Article history [britannica biography](https://www.britannica.com/biography/Martin-Luther-King-Jr/The-Montgomery-bus-boycott).
 
 I am happy to join  with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.
